@@ -1,0 +1,10 @@
+__pycache__
+.idea
+
+venv/
+
+.env
+
+config.py
+
+tgbot.sqlite3
